@@ -1,0 +1,11 @@
+1. Does Father Gapon's petition reflect a faith in the Tsar? Give examples to support your answer
+	  Father Gapon's petition reflects a faith in the Tsar as the only remaining force of change within Russia. This is shown when Gapon states, "Here we await the last available means of rescue" as Gapon has faith the Tsar will "rescue" them, assuming that once aware of their suffering, the Tsar will immediately save them.
+2. From what you know already about the Tsar's rule, is this faith seem justified? Explain
+	 This faith wasn't justified as the Tsar, albeit limiting the power of the nobility, was still deeply connected to the aristocrats and placed few restrictions on employers. His resistance to reform of the autocratic system also shows that he was unlikely to implement change, regardless of whether or not a petition was made. 
+3. Who are identified by Gapon as the real enemies of the people?
+	 Father Gapon identifies the factory owners and employers as the real enemies of the people, accusing them of exploiting workers and disregarding their well-being. He states that these figures, rather than the Tsar himself, are responsible for the workers’ suffering.
+4. List the request and grievances Gapon's petition is making?
+	Gapon asks to fix prices of their labour, raise wages of factory workers, abolish overtime, take better care of the sick, to work in good conditions compared to the snow and rain they were working in before
+5. Is there evidence that the petition was a cleverly designed piece of writing? Has the writing used any particular techniques to appeal to the Tsar? Explain
+	The petition is a cleverly designed piece of writing as it uses specific religious allusions and techniques to appeal to the Tsar, such as the placement of the Tsar as a figure who can bring "salvation", a term commonly used in relation to Jesus, "You are our father, and you are the sole means of our salvation. Only you can grant us relief from our suffering". Gapon also implies that there will be unrest if the Tsar refuses to hear their pleas when he states, "If you refuse to listen, we shall die here, on this square, before your palace. We have nowhere else to turn.", trying to force the Tsar's hand into compliance. 
+

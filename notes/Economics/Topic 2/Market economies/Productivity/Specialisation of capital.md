@@ -1,0 +1,2 @@
+**- Occurs when businesses grow so large they can use highly specialised capital equipment in their production process e.g. a large wine producer that uses machines to bottle, cap and label wines
+- Specialisation of labour and capital is much easier when firms are engaging in mass production

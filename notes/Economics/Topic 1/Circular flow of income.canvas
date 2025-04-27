@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"03293565d659cdcd","type":"text","text":"Businesses","x":440,"y":-99,"width":160,"height":60},
+		{"id":"f8fb93557650491a","type":"text","text":"Banks","x":70,"y":-79,"width":117,"height":80},
+		{"id":"f9f8da1191cc1fa7","type":"text","text":"Governments","x":70,"y":200,"width":170,"height":50},
+		{"id":"478042c8cfa126c7","type":"text","text":"Governments","x":68,"y":196,"width":250,"height":60},
+		{"id":"0972c4714b26fabd","type":"text","text":"Governments","x":68,"y":196,"width":250,"height":60},
+		{"id":"00f1e3eff3a4a701","type":"text","text":"Financial sector","x":62,"y":400,"width":178,"height":60},
+		{"id":"1b6aad123e21fbf4","type":"text","text":"Individuals ","x":-360,"y":-139,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"de98a212146ad767","fromNode":"1b6aad123e21fbf4","fromSide":"bottom","toNode":"03293565d659cdcd","toSide":"bottom","label":"Labour"},
+		{"id":"7f873268900dcbc5","fromNode":"03293565d659cdcd","fromSide":"top","toNode":"1b6aad123e21fbf4","toSide":"top","label":"Wages"},
+		{"id":"ccca08050885485a","fromNode":"1b6aad123e21fbf4","fromSide":"right","toNode":"f8fb93557650491a","toSide":"left","label":"Savings"},
+		{"id":"71c4f197a62d6d92","fromNode":"f8fb93557650491a","fromSide":"right","toNode":"03293565d659cdcd","toSide":"left","label":"Investment"},
+		{"id":"aab25223de2742f6","fromNode":"1b6aad123e21fbf4","fromSide":"bottom","toNode":"f9f8da1191cc1fa7","toSide":"left","label":"Tax"},
+		{"id":"2d0489006b5dfc08","fromNode":"f9f8da1191cc1fa7","fromSide":"right","toNode":"03293565d659cdcd","toSide":"right","label":"Government spending\n\n"},
+		{"id":"7b07cd171cd8a7fc","fromNode":"1b6aad123e21fbf4","fromSide":"left","toNode":"00f1e3eff3a4a701","toSide":"left","label":"Imports"},
+		{"id":"6527670a3e87e8cd","fromNode":"00f1e3eff3a4a701","fromSide":"right","toNode":"03293565d659cdcd","toSide":"right","label":"Exports"}
+	]
+}
